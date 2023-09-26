@@ -1,20 +1,17 @@
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=000000&background=6d25a5center=true&vCenter=true&width=1000&height=70&lines=Hello+welcome!+;My+name+is+Keila Cristina.;I´m+19+years+old.;I'm+from+Brazil%2C+SP." alt="Typing SVG" />
-</a>
-
-
-
- <p> Sou uma garota curiosa, e que tem vontade de aprender mais com a tecnologia!</p>
-
 <div class="description" style="display: inline_block">
+<a href="https://git.io/typing-svg">
+ <img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=fffff&background=6d25a5&center=true&vCenter=true&width=1000&height=70&lines=Hello+welcome!+;My+name+is+Keila+Cristina.;I´m+19+years+old.;I'm+from+Brazil%2C+SP." alt="Typing SVG" /></a>
+    <br>
     <a href="https://github.com/Keila204">
       <img src="https://github-readme-stats.vercel.app/api?username=Keila204&show_icons=true&theme=dark" alt="nota"height=200px>
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Keila204&layout=compact&theme=dark" alt="top language">
     </a>
-    <br>
-   
 </div>
+
+
+
+ <p> Sou uma garota curiosa, e que tem vontade de aprender mais com a tecnologia!</p
 
 
 
