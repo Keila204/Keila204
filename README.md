@@ -1,6 +1,6 @@
 
 <a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=000000&background=ec86df&center=true&vCenter=true&width=1000&height=70&lines=Hello+welcome!+;My+name+is+Keila Cristina.;I´m+19+years+old.;I'm+from+Brazil%2C+SP." alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=IBM+Plex+Mono&pause=1000&color=000000&background=6d25a5center=true&vCenter=true&width=1000&height=70&lines=Hello+welcome!+;My+name+is+Keila Cristina.;I´m+19+years+old.;I'm+from+Brazil%2C+SP." alt="Typing SVG" />
 </a>
 
 
